@@ -2,10 +2,6 @@
   description: 'Are you looking to build something from scratch? Commercial or residential we can fulfill your vision start to finish.'
   vector: largeIcon firstPillar
 
-- title: Roofing
-  description: 'Are you looking to repair or replace your roof? A full tear off or a repair? We will suggest the service to fulfill your needs.'
-  vector: largeIcon secondPillar
-
 - title: Remodeling
   description: 'Are you looking to upgrade your home or business? We can make that happen. Making your dreams a reality is what we do best.'
   vector: largeIcon thirdPillar

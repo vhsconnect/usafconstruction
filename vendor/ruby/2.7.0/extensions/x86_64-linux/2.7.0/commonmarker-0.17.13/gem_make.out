@@ -1,0 +1,14 @@
+current directory: /home/vhs/Repos/usafconstruction/vendor/ruby/2.7.0/gems/commonmarker-0.17.13/ext/commonmarker
+/nix/store/yy9sbr2sd4qfn5fdygcqkmibscbcknhq-ruby-2.7.7/bin/ruby -I /nix/store/yy9sbr2sd4qfn5fdygcqkmibscbcknhq-ruby-2.7.7/lib/ruby/2.7.0 extconf.rb
+creating Makefile
+
+current directory: /home/vhs/Repos/usafconstruction/vendor/ruby/2.7.0/gems/commonmarker-0.17.13/ext/commonmarker
+make DESTDIR\= sitearchdir\=./.gem.20230401-127975-gngc5i sitelibdir\=./.gem.20230401-127975-gngc5i clean
+
+current directory: /home/vhs/Repos/usafconstruction/vendor/ruby/2.7.0/gems/commonmarker-0.17.13/ext/commonmarker
+make DESTDIR\= sitearchdir\=./.gem.20230401-127975-gngc5i sitelibdir\=./.gem.20230401-127975-gngc5i
+compiling arena.c
+/bin/sh: line 1: gcc: command not found
+make: *** [Makefile:246: arena.o] Error 127
+
+make failed, exit code 2

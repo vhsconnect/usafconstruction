@@ -1,0 +1,14 @@
+current directory: /home/vhs/Repos/usafconstruction/vendor/ruby/2.7.0/gems/http_parser.rb-0.8.0/ext/ruby_http_parser
+/nix/store/yy9sbr2sd4qfn5fdygcqkmibscbcknhq-ruby-2.7.7/bin/ruby -I /nix/store/yy9sbr2sd4qfn5fdygcqkmibscbcknhq-ruby-2.7.7/lib/ruby/2.7.0 extconf.rb
+creating Makefile
+
+current directory: /home/vhs/Repos/usafconstruction/vendor/ruby/2.7.0/gems/http_parser.rb-0.8.0/ext/ruby_http_parser
+make DESTDIR\= sitearchdir\=./.gem.20230401-127975-lgvi7e sitelibdir\=./.gem.20230401-127975-lgvi7e clean
+
+current directory: /home/vhs/Repos/usafconstruction/vendor/ruby/2.7.0/gems/http_parser.rb-0.8.0/ext/ruby_http_parser
+make DESTDIR\= sitearchdir\=./.gem.20230401-127975-lgvi7e sitelibdir\=./.gem.20230401-127975-lgvi7e
+compiling ruby_http_parser.c
+/bin/sh: line 1: gcc: command not found
+make: *** [Makefile:246: ruby_http_parser.o] Error 127
+
+make failed, exit code 2
